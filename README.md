@@ -1,4 +1,4 @@
-## hi, i'm ethan 🧑‍💻  
+## hi, i'm ethan :octocat:
   
 
 <a href="https://github.com/https://github.com/ethanwchen" target="_blank">
