@@ -40,7 +40,7 @@ I'm looking for research and internship opportunities for summer/fall 2023! 🐱
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
 </div>  
-
+ 
 </td><td valign="top" width="50%">
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=ethanwchen&theme=dark&sshow_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>
