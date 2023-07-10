@@ -26,7 +26,7 @@ I'm looking for research and internship opportunities for summer/fall 2023! 🐱
 ## about me!  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on an [NBA Prop Predicting Discord Bot](https://github.com/ethanwchen/nba-prop-farmer)  
+- 🔭 I’m currently working on an my own start-up called Prop Hero
   
 
 - 🌱 I’m currently learning about data engineering and ETL through IBM's data engineering course 
