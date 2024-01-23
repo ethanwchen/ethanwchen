@@ -26,10 +26,10 @@ I'm looking for research and internship opportunities for summer/fall 2023! 🐱
 ## about me!  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on an my own start-up called Prop Hero
+- 🔭 I’m currently working on an my own start-up.
   
 
-- 🌱 I’m currently learning about data engineering and ETL through IBM's data engineering course 
+- 🌱 I’m currently learning about NLP through LLM research with UCLA NLP. 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
