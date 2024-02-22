@@ -15,7 +15,7 @@
 
 
 ### welcome!  
-I’m a third-year studying statistics and data science at UCLA. I'm interested in machine learning, particularly natural language processing (NLP) and recommendation systems to leverage data-driven approaches and solve real-world problems. I'm proficient in Python, R, and SQL and am currently honing data engineering skills through IBM's data engineering course. I also enjoy writing articles on Medium about my learning experiences, interesting news in the field, and my personal projects.
+I’m a fourth-year studying statistics and data science at UCLA. I'm interested in machine learning, particularly natural language processing (NLP) and recommendation systems to leverage data-driven approaches and solve real-world problems. I'm proficient in Python, R, and SQL and am currently honing data engineering skills through IBM's data engineering course. I also enjoy writing articles on Medium about my learning experiences, interesting news in the field, and my personal projects.
 
 I'm looking for research and internship opportunities for summer/fall 2024! 🐱  
   
