@@ -1,4 +1,4 @@
-## hi, i'm ethan :octocat:
+## Hi, I'm Ethan :octocat:
   
  
 <a href="https://github.com/https://github.com/ethanwchen" target="_blank">
