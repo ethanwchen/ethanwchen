@@ -28,8 +28,6 @@ I’m an MSDS student at the University of Chicago with a BS in Statistics from 
  
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=ethanwchen&theme=dark&sshow_icons=true&count_private=true&hide_border=true" align="right" style="width: 100%" /></div>
-
  <div align="center">  
 </div>  
   
