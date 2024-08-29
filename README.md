@@ -18,20 +18,7 @@
 
  <div align="center">  
 </div>  
-  
 </td></tr></table>  
-
 <br/>  
-
   ![profile views :D](https://komarev.com/ghpvc/?username=ethanwchen&&style=flat-square)  
-
-
-<br/>  
-  
-
-<br/>  
-
-
-<br />
-
 ----
