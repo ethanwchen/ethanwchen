@@ -1,4 +1,4 @@
-## Hi, I'm Ethan :octocat:
+## Hi, I'm Ethan
   
  
 <a href="https://github.com/https://github.com/ethanwchen" target="_blank">
@@ -11,23 +11,10 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
-### welcome!  
 I’m an MSDS student at the University of Chicago with a BS in Statistics from UCLA. My research and specialization revolves around natural language processing based projects.
-  
-
-<br/>  
-
-
-## about me!  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on an my own start-up.
-  
-
-- 🌱 I’m currently learning about NLP. 
+  - 🌱 I’m currently learning about cybersecurity and finance engineering. 
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
