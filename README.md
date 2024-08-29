@@ -1,5 +1,5 @@
 
-- 👋 Hi I'm Ethan
+- 👋 Hi I'm Ethan Chen
 - 🔭 I play a lot of pickleball
 - 🌱 I’m currently learning about math and finance engineering.
 - 📫 I can be reached at ethanwchen@ucla.edu
