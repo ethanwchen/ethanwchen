@@ -1,4 +1,4 @@
-## Hi, I'm Ethan
+### Ethan Chen
   
  
 <a href="https://github.com/https://github.com/ethanwchen" target="_blank">
@@ -12,9 +12,10 @@
 </a>  
   
 I’m an MSDS student at the University of Chicago with a BS in Statistics from UCLA. My research and specialization revolves around natural language processing based projects.
-
-- 🔭 I’m currently working on an my own start-up.
-  - 🌱 I’m currently learning about cybersecurity and finance engineering. 
+- 👋 Hi I'm Ethan
+- 🔭 I play a lot of pickleball
+- 🌱 I’m currently learning about math and finance engineering.
+- 📫 I can be reached at ethanwchen@ucla.edu
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
