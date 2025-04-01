@@ -1,8 +1,8 @@
 
 - 👋 Hi I'm Ethan Chen
-- 🎾 I play tennis & pickleball
-- 🌱 I’m currently learning computer vision and nlp
-- 📫 I can be reached at ethanwchen@ucla.edu
+- 🎾 I love to play tennis and run
+- 🌱 I’m growing a basketball analytics YT channel
+- 📫 I can be reached at ethanwchen@uchicago.edu
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
