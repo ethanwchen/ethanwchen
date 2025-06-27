@@ -1,9 +1,7 @@
-
-- 👋 Hi I'm Ethan Chen
-  - B.S. Statistics & Data Science @ UCLA, M.S. Data Science @ University of Chicago
-- 🎾 I love playing tennis and running
-- 🌱 I’m growing a basketball analytics YT channel
-- 📫 I can be reached at ethanwchen@uchicago.edu
+- B.S. Statistics & Data Science @ UCLA, M.S. Data Science @ University of Chicago
+- Data Scientist based out of NYC
+- I’m growing a basketball analytics Youtube channel
+- I can be reached at ethanwchen@uchicago.edu
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
