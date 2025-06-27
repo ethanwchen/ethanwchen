@@ -1,6 +1,6 @@
-- B.S. Statistics & Data Science @ UCLA, M.S. Data Science @ University of Chicago
-- Data Scientist based out of NYC
-- I’m growing a basketball analytics Youtube channel
+- B.S. Statistics & Data Science @ UCLA, M.S. Data Science @ UChicago
+- data scientist & tennis player based in New York City
+- natural language processing enthusiast
 - I can be reached at ethanwchen@uchicago.edu
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
