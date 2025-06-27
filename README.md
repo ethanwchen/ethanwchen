@@ -1,7 +1,7 @@
 
 - 👋 Hi I'm Ethan Chen
   - B.S. Statistics & Data Science @ UCLA, M.S. Data Science @ University of Chicago
-- 🎾 I love to play tennis and run
+- 🎾 I love playing tennis and running
 - 🌱 I’m growing a basketball analytics YT channel
 - 📫 I can be reached at ethanwchen@uchicago.edu
 <div align="center">  
